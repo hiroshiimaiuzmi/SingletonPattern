@@ -1,0 +1,15 @@
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/bin/Debug/net6.0/SingletonPattern
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/bin/Debug/net6.0/SingletonPattern.deps.json
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/bin/Debug/net6.0/SingletonPattern.runtimeconfig.json
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/bin/Debug/net6.0/SingletonPattern.dll
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/bin/Debug/net6.0/SingletonPattern.pdb
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.csproj.AssemblyReference.cache
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.AssemblyInfo.cs
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.dll
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/refint/SingletonPattern.dll
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.pdb
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/SingletonPattern.genruntimeconfig.cache
+/Users/imaizumi/Desktop/dev/gof/SingletonPattern/obj/Debug/net6.0/ref/SingletonPattern.dll
